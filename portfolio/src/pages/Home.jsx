@@ -12,7 +12,7 @@ function Home() {
             <main style={{ overflowY: 'auto', position:'relative'  }}>
             <Box 
                 sx={{ 
-                    background: 'linear-gradient(#211F41,#4E4092,#3E3080,#2E236C,#2E236C,#211F41)', // Gradient background
+                    background: 'linear-gradient(#211F41,#4E4092,#3A3858,#211F41)', // Gradient background
                     minHeight: '100vh', // Ensure it covers the full viewport height
                     overflowY: 'auto',
                     position: 'relative',
